@@ -6,7 +6,10 @@ namespace ClassDemoRelations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            RelationWorker worker = new RelationWorker();
+            worker.MyCode();
+
+            Console.WriteLine("Programmet er færdigt");
         }
     }
 }

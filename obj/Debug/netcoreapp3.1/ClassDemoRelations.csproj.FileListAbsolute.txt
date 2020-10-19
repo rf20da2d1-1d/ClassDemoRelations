@@ -1,0 +1,13 @@
+M:\uv\2020e-swc1\prog\ClassDemoRelations\bin\Debug\netcoreapp3.1\ClassDemoRelations.exe
+M:\uv\2020e-swc1\prog\ClassDemoRelations\bin\Debug\netcoreapp3.1\ClassDemoRelations.deps.json
+M:\uv\2020e-swc1\prog\ClassDemoRelations\bin\Debug\netcoreapp3.1\ClassDemoRelations.runtimeconfig.json
+M:\uv\2020e-swc1\prog\ClassDemoRelations\bin\Debug\netcoreapp3.1\ClassDemoRelations.runtimeconfig.dev.json
+M:\uv\2020e-swc1\prog\ClassDemoRelations\bin\Debug\netcoreapp3.1\ClassDemoRelations.dll
+M:\uv\2020e-swc1\prog\ClassDemoRelations\bin\Debug\netcoreapp3.1\ClassDemoRelations.pdb
+M:\uv\2020e-swc1\prog\ClassDemoRelations\obj\Debug\netcoreapp3.1\ClassDemoRelations.csprojAssemblyReference.cache
+M:\uv\2020e-swc1\prog\ClassDemoRelations\obj\Debug\netcoreapp3.1\ClassDemoRelations.AssemblyInfoInputs.cache
+M:\uv\2020e-swc1\prog\ClassDemoRelations\obj\Debug\netcoreapp3.1\ClassDemoRelations.AssemblyInfo.cs
+M:\uv\2020e-swc1\prog\ClassDemoRelations\obj\Debug\netcoreapp3.1\ClassDemoRelations.csproj.CoreCompileInputs.cache
+M:\uv\2020e-swc1\prog\ClassDemoRelations\obj\Debug\netcoreapp3.1\ClassDemoRelations.dll
+M:\uv\2020e-swc1\prog\ClassDemoRelations\obj\Debug\netcoreapp3.1\ClassDemoRelations.pdb
+M:\uv\2020e-swc1\prog\ClassDemoRelations\obj\Debug\netcoreapp3.1\ClassDemoRelations.genruntimeconfig.cache
